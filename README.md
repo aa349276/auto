@@ -1,0 +1,2 @@
+# auto
+For class homework
